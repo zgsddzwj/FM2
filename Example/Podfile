@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FM2_Tests' do
+  pod 'FM2', :path => '../'
+  
+  
+end
