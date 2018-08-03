@@ -1,0 +1,6 @@
+framework module FM2 {
+  umbrella header "FM2-umbrella.h"
+
+  export *
+  module * { export * }
+}
